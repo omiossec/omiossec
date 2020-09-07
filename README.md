@@ -10,3 +10,7 @@
 See my blog post on [DEV.TO](https://dev.to/omiossec)
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/omiossec">🍺<span style="margin-left:5px;font-size:24px !important;">Buy me a Beer</span></a>
+
+<a href="https://dev.to/omiossec">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Olivier Miossec's DEV Profile" height="30" width="30">
+</a>
