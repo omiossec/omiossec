@@ -9,4 +9,7 @@
 
 See my blog post on [DEV.TO](https://dev.to/omiossec)
 
+See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
+
+
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/omiossec">🍺<span style="margin-left:5px;font-size:24px !important;">Buy me a Beer</span></a>
