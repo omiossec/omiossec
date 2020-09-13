@@ -34,7 +34,7 @@ See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 * [Azure Container Instance Group Continuous deployment](https://dev.to/omiossec/azure-container-instance-group-continuous-deployment-jo8)
 * [Using Azure Container Instance with multiple containers](https://dev.to/omiossec/using-azure-container-instance-with-multiple-containers-43fd)
 * [ARM Templates, using NSG and Application Security Groups in your Azure Deployments](https://dev.to/omiossec/arm-templates-using-nsg-and-application-security-groups-in-your-azure-deployments-1one)
-* [Getting started with Azure PowerShell docker Image and GitHub Actions](https://dev.to/omiossec/getting-started-with-azure-powershell-docker-image-and-github-actions-1g7
+* [Getting started with Azure PowerShell docker Image and GitHub Actions](https://dev.to/omiossec/getting-started-with-azure-powershell-docker-image-and-github-actions-1g7)
 * [ARM Templates, conditional deployments in Azure](https://dev.to/omiossec/arm-templates-conditional-deployments-in-azure-5kc)
 * [Writing Kubectl plugin with PowerShell](https://dev.to/omiossec/writing-kubectl-plugin-with-powershell-4c25)
 * [Windows Containers in Azure Kubernetes Services](https://dev.to/omiossec/windows-containers-in-azure-kubernetes-services-1i0c)
