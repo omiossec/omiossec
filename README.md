@@ -24,6 +24,7 @@ See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 
 ## My Last posts
 
+* [First look at Project Bicep, an Azure Resource Manager templates DSL](https://dev.to/omiossec/first-look-at-project-bicep-an-azure-resource-manager-templates-dsl-4jif)
 * [RunAS account in Azure Automation, ARM Template and deployment script](https://dev.to/xac0/using-multiple-ingresses-in-azure-aks-10do)
 * [Linked templates in ARM template](https://dev.to/omiossec/linked-templates-in-arm-templates-4ha9)
 * [Azure, how to build a reusable multi-data disks VM ARM template](https://dev.to/omiossec/azure-how-to-build-a-reusable-multi-data-disks-vm-arm-template-2ghn)
