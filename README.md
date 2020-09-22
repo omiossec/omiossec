@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Me](IMG_20190228_195757_255.jpg)
+
 
 - 🔭 I’m currently working on Azure, WinOps/DevOps and Automation
 - 📫 How to reach me: by [Twitter](https://twitter.com/omiossec_med) or [linkedin](https://www.linkedin.com/in/omiossec/)
@@ -12,6 +12,7 @@ See my blog post on [DEV.TO](https://dev.to/omiossec)
 
 See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 
+![MVP](MVP_Logo_Horizontal_Secondary_Blue286_CMYK_72ppi.png)
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/omiossec">🍺<span style="margin-left:5px;font-size:24px !important;">Buy me a Beer</span></a>
 
