@@ -42,10 +42,15 @@ See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 * [Working with Azure VM Spot instance](https://dev.to/omiossec/working-with-azure-vm-spot-instance-1k02)
 
 
-## MSLearn favorites Learning Path
+## MSLearn favorites Learning Paths
 
 * [Architect API integration in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-api-integration/?WT.mc_id=AZ-MVP-5003620)
 * [Migrating Cassandra and MongoDB workloads to Cosmos DB](https://docs.microsoft.com/en-gb/learn/paths/migrate-cassandra-mongo-db-workloads-to-cosmos-db/?WT.mc_id=AZ-MVP-5003620)
 * [Deploy applications with Azure DevOps](https://docs.microsoft.com/en-gb/learn/paths/deploy-applications-with-azure-devops/?WT.mc_id=AZ-MVP-5003620)
 * [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-messaging-serverless/?WT.mc_id=AZ-MVP-5003620)
 * [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-migration-bcdr/?WT.mc_id=AZ-MVP-5003620)
+* [Implement network security in Azure](https://docs.microsoft.com/en-gb/learn/paths/implement-network-security/?WT.mc_id=AZ-MVP-5003620)
+* [Evolve your DevOps practices](https://docs.microsoft.com/en-gb/learn/paths/evolve-your-devops-practices/?WT.mc_id=AZ-MVP-5003620)
+* [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/?WT.mc_id=AZ-MVP-5003620)
+* [Architect network infrastructure in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-network-infrastructure/?WT.mc_id=AZ-MVP-5003620)
+* [Manage the lifecycle of your projects on GitHub](https://docs.microsoft.com/en-gb/learn/paths/manage-project-lifecycle-github/?WT.mc_id=AZ-MVP-5003620)
