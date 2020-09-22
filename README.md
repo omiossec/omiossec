@@ -40,3 +40,12 @@ See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 * [Writing Kubectl plugin with PowerShell](https://dev.to/omiossec/writing-kubectl-plugin-with-powershell-4c25)
 * [Windows Containers in Azure Kubernetes Services](https://dev.to/omiossec/windows-containers-in-azure-kubernetes-services-1i0c)
 * [Working with Azure VM Spot instance](https://dev.to/omiossec/working-with-azure-vm-spot-instance-1k02)
+
+
+## MSLearn favorites Learning Path
+
+* [Architect API integration in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-api-integration/?WT.mc_id=AZ-MVP-5003620)
+* [Migrating Cassandra and MongoDB workloads to Cosmos DB](https://docs.microsoft.com/en-gb/learn/paths/migrate-cassandra-mongo-db-workloads-to-cosmos-db/?WT.mc_id=AZ-MVP-5003620)
+* [Deploy applications with Azure DevOps](https://docs.microsoft.com/en-gb/learn/paths/deploy-applications-with-azure-devops/?WT.mc_id=AZ-MVP-5003620)
+* [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-messaging-serverless/?WT.mc_id=AZ-MVP-5003620)
+* [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-migration-bcdr/?WT.mc_id=AZ-MVP-5003620)
