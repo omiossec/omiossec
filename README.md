@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+![Me](IMG_20190228_195757_255.jpg)
 
 - 🔭 I’m currently working on Azure, WinOps/DevOps and Automation
 - 📫 How to reach me: by [Twitter](https://twitter.com/omiossec_med) or [linkedin](https://www.linkedin.com/in/omiossec/)
