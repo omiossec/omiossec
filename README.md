@@ -46,6 +46,7 @@ See my profile on [Linkedin](https://www.linkedin.com/in/omiossec/)
 
 ## MSLearn favorites Learning Paths
 
+* [MICROSOFT LEARN FOR NASA, Build tech skills for space exploration](https://docs.microsoft.com/en-us/learn/topics/nasa?WT.mc_id=AZ-MVP-5003620)
 * [Architect API integration in Azure](https://docs.microsoft.com/en-gb/learn/paths/architect-api-integration/?WT.mc_id=AZ-MVP-5003620)
 * [Migrating Cassandra and MongoDB workloads to Cosmos DB](https://docs.microsoft.com/en-gb/learn/paths/migrate-cassandra-mongo-db-workloads-to-cosmos-db/?WT.mc_id=AZ-MVP-5003620)
 * [Deploy applications with Azure DevOps](https://docs.microsoft.com/en-gb/learn/paths/deploy-applications-with-azure-devops/?WT.mc_id=AZ-MVP-5003620)
