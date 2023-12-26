@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Azure, WinOps/DevOps and Automation
 - 📫 How to reach me: by [Twitter](https://twitter.com/omiossec_med) or [linkedin](https://www.linkedin.com/in/omiossec/)
-- I am an AZURE Microsoft [Most Valuable Professional](https://mvp.microsoft.com/en-us/PublicProfile/5003620?fullName=Olivier%20Miossec)
+- I am a former AZURE Microsoft [Most Valuable Professional](https://mvp.microsoft.com/en-us/PublicProfile/5003620?fullName=Olivier%20Miossec)
 - I co-anime the French PowerShell and DevOps User Group [FRPSUG](https://frpsug.com/)
 - My first computer was an Amstrad CPC and I coded in Basic
 - I love to work with PowerShell, IAC, ARM Template, Azure Functions
